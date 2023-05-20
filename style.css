@@ -1,0 +1,50 @@
+table, th, td{
+    border: 1px solid rgb(68, 66, 66);
+    border-collapse: collapse;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 5px;
+    margin: auto;
+    margin-top: 300px;
+}
+
+th{
+   color: rgb(0, 0, 0);
+   background-color: white;
+}
+
+td{
+    color: white;
+}
+
+.Black{
+    background: #000000;
+}
+
+.grey11{
+    background: #1c1c1c;
+}
+
+.grey21{
+    background: #363636;
+}
+
+.grey31{
+    background: #4f4f4f;
+}
+
+.DimGray{
+    background: #696969;
+}
+
+.Gray{
+    background: #808080;
+}
+
+.DarkGray{
+    background: #a9a9a9;
+}
+
+tr:hover{
+    transform: scale(1.2);
+}
